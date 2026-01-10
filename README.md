@@ -7,6 +7,9 @@ It is a record of how I understand Generative AI by building, breaking, and desi
 
 ## Start Here
 - [00 — Introduction: How I Understand Generative AI](00_introduction.md)
+- [01 — Transformers from a System-Level View](01_transformers_from_system_view.md)
+- [02 — Attention Mechanism: A System-Level Deep Dive](02_attention_mechanism_deep_dive.md)
+- [03 — Transformer Architecture: From Attention to Generation](03_transformer_architecture_from_attention_to_generation.md)
 
 ## What This Repo Focuses On
 - Foundation models (LLMs & SLMs)
